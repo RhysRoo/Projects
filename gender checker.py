@@ -1,3 +1,5 @@
+# True = male and False = Female
+
 def what_is_your_gender(gender,sex):
     if gender == True and sex == True:
         return print("Your male")
